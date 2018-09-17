@@ -28,6 +28,12 @@ footer {
     font-family: Arial
 }
 
+
 #heisman {
-    border: white;
+    margin: 0, auto;
+    padding: 30px;
+}
+
+#baker {
+    padding: 50px 250px;
 }
