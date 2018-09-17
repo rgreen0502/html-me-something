@@ -1,0 +1,33 @@
+body {
+    margin: 0 auto;
+    background-color: lightgray
+}
+
+header, main, footer {
+    padding: 20px;
+}
+
+
+header h1 {
+    text-align: center;
+}
+
+ul h2 {
+    text-align: center;
+}
+
+li {
+    font-size: large;
+}
+
+footer {
+    text-align: center;
+}
+
+.opening {
+    font-family: Arial
+}
+
+#heisman {
+    border: white;
+}
